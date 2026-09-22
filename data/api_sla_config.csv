@@ -1,0 +1,5 @@
+api_name,availability_sla,response_time_sla_ms,error_rate_sla_pct,business_process,criticality,owner_team
+Payment API,99.90,2000,1.00,Payment Processing,Critical,Payments Integration
+Customer API,99.50,1000,1.00,Customer Registration,High,Customer Platform
+Policy API,99.50,2000,1.00,Policy Issuance,Critical,Policy Integration
+Notification API,99.50,3000,1.00,Customer Communication,Medium,Notification Services
